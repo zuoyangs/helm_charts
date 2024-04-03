@@ -10,5 +10,5 @@ RabbitMQ:
     registry.cn-hangzhou.aliyuncs.com/zuoyang/rabbitmq:3.13-management-alpine
 
 Redis:
-  redis-6.2.14:
-    registry.cn-hangzhou.aliyuncs.com/zuoyang/redis:6.2.14-alpine3.19
+  redis-6.2.9:
+    registry.cn-hangzhou.aliyuncs.com/zuoyang/redis:6.2.9
